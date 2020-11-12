@@ -6,7 +6,7 @@ public class Main {
 
         System.out.println("   /\\_/\\     ------ ");
         System.out.println("  / o o \\  / Welcome \\");
-        System.out.println(" (   \"   ) <   To    |");
+        System.out.println(" (   \"   ) <   Everyone To    |");
         System.out.println("  \\~(*)~/  \\ GitHub! /");
         System.out.println("   // \\\\     ------ ");
 
